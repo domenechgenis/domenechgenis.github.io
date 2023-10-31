@@ -979,6 +979,14 @@ a:hover {
   padding: 0;
 }
 
+.portfolio-description {
+  padding-top: 50px; /* Adjust the value as needed for desired spacing */
+}
+
+.portfolio-info {
+  padding-top: 50px; /* Adjust the value as needed for desired spacing */
+}
+
 
 /*--------------------------------------------------------------
 # Footer
@@ -1043,4 +1051,8 @@ footer .credits a {
 .icon-container img {
   width: 25px; /* Adjust icon size as needed */
   height: 25px; /* Adjust icon size as needed */
+}
+
+main{
+  min-height: calc(100vh - 506px);
 }
