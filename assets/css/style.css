@@ -985,6 +985,7 @@ a:hover {
 
 .portfolio-info {
   padding-top: 50px; /* Adjust the value as needed for desired spacing */
+  padding-right: 50px;
 }
 
 
@@ -1056,3 +1057,15 @@ footer .credits a {
 main{
   min-height: calc(100vh - 506px);
 }
+
+.icon-image {
+  width: 50px; /* Adjust the width and height as needed */
+  height: 50px; /* Adjust the width and height as needed */
+  display: block; /* Ensures the images are displayed as block elements */
+  margin-bottom: 10px; /* Adds some space between images */
+}
+.icon-link {
+  display: inline-block; /* Ensures the link elements are displayed inline */
+  margin-right: 10px; /* Adds space between icon links */
+}
+
